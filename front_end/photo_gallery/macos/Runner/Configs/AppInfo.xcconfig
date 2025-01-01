@@ -1,9 +1,0 @@
-// AppInfo.xcconfig
-//
-// Use this file to define app-specific build settings.
-
-// The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.cameraApp
-
-// The application's product name
-PRODUCT_NAME = camera_app
