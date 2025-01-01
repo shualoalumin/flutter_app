@@ -1,0 +1,5 @@
+// Configuration settings that apply to all release builds.
+#include "AppInfo.xcconfig"
+
+// The code signing identity to use for release builds
+CODE_SIGN_IDENTITY = "Apple Distribution"
