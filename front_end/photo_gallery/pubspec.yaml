@@ -39,6 +39,8 @@ dependencies:
   shared_preferences: ^2.2.2
   path: ^1.9.0
   intl: ^0.18.1
+  google_generative_ai: ^0.4.6
+  flutter_dotenv: ^5.2.1
 
 dev_dependencies:
   flutter_test:
