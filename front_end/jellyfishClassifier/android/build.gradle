@@ -1,7 +1,18 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.0.2' // Ensure compatibility
+    }
+}
+
 allprojects {
     repositories {
         google()
         mavenCentral()
+        jcenter() // Add jcenter repository to fix the issue
     }
 }
 
