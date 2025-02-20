@@ -1,4 +1,5 @@
 {
     "files.autoSave": "onFocusChange",
-    "editor.fontSize": 15
+    "editor.fontSize": 15,
+    "java.compile.nullAnalysis.mode": "automatic"
 }
